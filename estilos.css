@@ -1,0 +1,21 @@
+body {
+    margin: 0 10%;
+    background-color: #FF69B4;
+}
+
+img {
+    -webkit-box-reflect: right;
+    border-radius: 90px;
+    margin-left: 19em;
+    margin-right: 20em;
+    width: 25%;
+    
+}
+
+.login {
+    display: block;
+    margin-left: 32rem;
+    margin-right: auto;
+    
+}
+
